@@ -3,6 +3,7 @@ Classic Arcade Game Clone
 ----------------------------------
 
 to Run this game : 
+
 	1- Download the github zip file or clone the repository onto your local Computer .
 		- Github repository  https://github.com/ebrahemsamer/Arcade-Game.git  .
 	2- Unzip the file .
@@ -10,6 +11,7 @@ to Run this game :
 
 
 to play this game : 
+
 	1- You are the player and there are many enemies crossing the road .
 	2- You can move up , down , left and right .
 	3- The enemies move in varying speeds on the paved block portion of the scene .
@@ -22,5 +24,5 @@ to play this game :
 
 Techniques used in this game :
 
-   1- Object oriented Javascript .
-   2- HTML5 Canvas .
+    1- Object oriented Javascript .
+    2- HTML5 Canvas .
