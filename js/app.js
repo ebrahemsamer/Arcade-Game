@@ -20,7 +20,7 @@ Enemy.prototype.update = function(dt) {
     this.x += this.speed * dt;
 
     // make enemies loop to left side of canvas after reaching canvas.width
-    if (this.x >= 505) {
+    if (this.x >= 515) {
         this.x = 0;
     }
 
